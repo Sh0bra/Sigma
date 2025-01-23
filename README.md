@@ -1,10 +1,12 @@
 # Sigma
-My Journey to learning Sigma detection
+My Journey to learning [Sigma](https://github.com/SigmaHQ) detection.
 
 ## Install
 ```
 pip3 install sigma-cli
 ```
+## Creating new Sigma rule
+Use the template.yaml file as a template to start creating new detection rule
 
 ## Converting Sigma rule to SIEM
 ```
